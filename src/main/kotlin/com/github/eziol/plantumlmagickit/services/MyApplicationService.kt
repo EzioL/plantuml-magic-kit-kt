@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.eziol.plantumlmagickit.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.eziol.plantumlmagickit.MyBundle
 
 class MyApplicationService {
 
